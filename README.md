@@ -1,2 +1,2 @@
-# Nebulai_CompluteClub
+# Nebulai Open Complute
 nebulai's depin computing services
