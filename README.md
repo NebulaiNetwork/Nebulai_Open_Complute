@@ -1,2 +1,2 @@
-# Nebulai Open Complute
+# Nebulai Open Compute
 nebulai's depin computing services
